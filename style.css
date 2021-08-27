@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url("2nd/images.jpg");
+    background-image: url("images.jpg");
     background-repeat: no-repeat;
     margin-top: 0%;
     background-size:2000px 500px;
@@ -72,7 +72,7 @@ body{
       margin-right: 0%;
   }
 #sec2{
-    background-image: url("2nd/thumbnail.jpg");
+    background-image: url("thumbnail.jpg");
 }
    .image{
     
