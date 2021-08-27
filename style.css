@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    background-image: url("2nd/images.jpg");
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    background-size:2000px 500px;
+   
+    
+
+
+}
+#sec1{
+    height: 500px;
+    
+     
+}
+#logo{
+    margin-top:100;
+    margin-left:  300px; ;
+    width: 100px;
+    height: 200px;
+}
+#about{
+    margin-right: 50px;
+    text-decoration: whitesmoke;
+    margin-left: 0;
+    background-color:03045e;
+    color:white;
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 600px;
+    height: 300px;
+  width: 1500px;  
+  
+    margin-top:450px;
+    
+    text-shadow: whitesmoke;
+    box-shadow: black;
+    
+
+    
+}
+
+#about h1{
+    font-size: 15;
+    
+    padding: 20px;
+}
+.topnav {
+	overflow: hidden;
+	background-color:white;
+    position:sticky;
+	top: 0;
+    width: 100%;
+  }
+  .topnav a {
+	float: left;
+	color:black;
+  font-weight: bold;
+  font-family: 'Architects Daughter', cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+  }
+  .topnav a:hover {
+	background-color: #bbb;
+	color: black;
+  }
+  #logo{
+      width:200px;
+      height: 500px;
+      margin-right: 0%;
+  }
+#sec2{
+    background-image: url("2nd/thumbnail.jpg");
+}
+   .image{
+    
+        width:300px;
+        height:300px;
+    
+  }
+.para{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.motto{
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+
+}
+#SLOGAN{
+    background-color: 2C2E43;
+    color: white;
+    width: 1000px;
+    font-family: 'Hina Mincho', serif;
+    width:600px;
+
+
+}
+#contact{
+    
+   font-size: 20px;
+   font-family: 'Hina Mincho', serif;
+   background-color: #1E3163;
+    color: white;
+}

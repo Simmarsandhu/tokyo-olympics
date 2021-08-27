@@ -1,0 +1,57 @@
+
+
+
+
+body{
+    text-align: center;
+}
+.img4{
+    width: 600px;
+    height: 600px;
+    margin-left:50px ;
+}
+.newsdiv{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    
+}
+#medal{
+    width: 2000px;
+    height: 400px;
+}
+section{
+    background-image: url("https://s.france24.com/media/display/8df2bf1e-e6ff-11eb-8bdc-005056bf30b7/AP21032148903302.jpg");
+}
+ #video iframe{
+     margin-top: 20px;
+     margin-left: 10px;
+   
+}
+.topnav {
+	overflow: hidden;
+	background-color:white;
+    position:sticky;
+	top: 0;
+    width: 100%;
+  }
+  .topnav a {
+	float: left;
+	color:black;
+  font-weight: bold;
+  font-family: 'Architects Daughter', cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+  }
+  .topnav a:hover {
+	background-color: #bbb;
+	color: black;
+  }
+  #contact{
+    
+    font-size: 20px;
+    font-family: 'Hina Mincho', serif;
+    background-color: #1E3163;
+     color: white;
+ }
